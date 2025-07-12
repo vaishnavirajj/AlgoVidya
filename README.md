@@ -229,7 +229,7 @@ The `lib` directory contains utility functions and libraries.
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/byteom/algovidya.git
+   git clone https://github.com/vaishnavirajj/algovidya.git
    cd algovidya
    ```  
 
@@ -277,7 +277,7 @@ We welcome contributions from developers around the globe! Whether it's fixing a
 5. Open a pull request on the main repository.  
 
 ### **Code of Conduct**  
-Please adhere to our [Code of Conduct](https://github.com/byteom/algovidya/blob/main/CODE_OF_CONDUCT.md) while contributing to maintain a welcoming environment.  
+Please adhere to our [Code of Conduct](https://github.com/vaishnavirajj/algovidya/blob/main/CODE_OF_CONDUCT.md) while contributing to maintain a welcoming environment.  
 
 ---
 
@@ -296,7 +296,7 @@ Please adhere to our [Code of Conduct](https://github.com/byteom/algovidya/blob/
 
 - **Website**: Coming soon!  
 - **Community**: [Join our WhatsApp group](#)  
-- **Repo URL**: [https://github.com/byteom/algovidya](https://github.com/byteom/algovidya)  
+- **Repo URL**: [https://github.com/vaishnavirajj/algovidya](https://github.com/vaishnavirajj/algovidya)
 
 ---  
 
